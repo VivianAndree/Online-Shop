@@ -10,7 +10,7 @@ body {
 h1 {
     padding: 15px;
     /* padding-left: 800px; */
-    color: rgb(182, 36, 17);
+    color: rgba(142, 35, 22, 0.993);
     font-size: 35px;
     position: relative;
     padding-left: 18%;
@@ -49,7 +49,7 @@ nav li {
     /* float: left; */
     padding: 20px;
     margin-top: 10px;
-    background-color: rgb(182, 36, 17);
+    background-color: rgba(142, 35, 22, 0.993);
     width: 100%;
     height: 26px;
     text-align: center;
@@ -123,7 +123,7 @@ li a:hover {
 .add-warenkorb, .add-warenkorb2 {
     position: absolute;
     width: 100%;
-    background-color: rgb(182, 36, 17);
+    background-color: rgba(142, 35, 22, 0.993);
     color: whitesmoke;
     opacity: 0;
     cursor: pointer;
@@ -134,7 +134,7 @@ li a:hover {
 .info-cart, .info-cart2 {
     position: absolute;
     width: 100%;
-    background-color: rgb(182, 36, 17);
+    background-color: rgba(142, 35, 22, 0.993);
     color: whitesmoke;
     opacity: 0;
     cursor: pointer;
@@ -192,7 +192,7 @@ li a:hover {
     max-width:750px;
     display: flex;
     justify-content: space-between;
-    border-bottom: 2px solid rgb(182, 36, 17);
+    border-bottom: 2px solid rgba(142, 35, 22, 0.993);
     margin: auto;
 }
 
@@ -266,7 +266,7 @@ li a:hover {
     justify-content: flex-end;
     width: 100%;
     padding: 10px 0;
-    border-bottom: 2px solid rgb(182, 36, 17);
+    border-bottom: 2px solid rgba(142, 35, 22, 0.993);
 }
 
 .endPreisHeader {
@@ -281,7 +281,7 @@ li a:hover {
     margin-left: 640px;
     height: 40px;
     text-align: center;
-    background-color:rgb(182, 36, 17);
+    background-color:rgba(142, 35, 22, 0.993);
     color: lightgray;
     width: 30%;
     margin-bottom: 50px;
@@ -305,7 +305,7 @@ li a:hover {
 }
 
 .footer {
-    background-color: rgb(182, 36, 17);
+    background-color: rgba(142, 35, 22, 0.993);
     bottom: 0;
     position: relative;
     display: flex;
